@@ -53,7 +53,7 @@ npm run dev
 - **Signing out removes the token from localStorage and redirects the user to the login page.**
 
 ## Project Structure
-
+```
 src/
 ├── assets/                # Static assets (images, icons, etc.)
 │
@@ -80,3 +80,4 @@ src/
 │
 public/                    # Public static files
 node_modules/              # Dependencies
+```

@@ -23,12 +23,10 @@ The application provides user authentication (register / login) and pharmacy man
 ## 🛠️ Tech Stack
 
 - **React**
-- **Vite**
 - **JavaScript (ES6+)**
 - **Fetch API**
 - **CSS**
 - **React Router**
-- **Spring Boot Backend (REST API)**
 
 ---
 
